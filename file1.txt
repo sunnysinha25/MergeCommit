@@ -1,1 +1,1 @@
-Edited file1.txt through branch "branch2"
+Edited file1.txt through branch "branch2"(Merge Commit)
